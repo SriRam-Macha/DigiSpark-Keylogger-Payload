@@ -11,4 +11,4 @@ First step disableing the Real Time Protection of Windows Defender
 Second Step is to execute the keyStrockes Mailer script
  A link to the raw code of the script is required for this step, which can be obtained by uploading your script(After the chaning the Email Addresses and Password) in Paste bin(Unlisted mode) or Github etc and then you can copy the link form the raw format mode and use it in the provided Digispark_keylogger_payload.ino file.
  
-I used Pastebin.com when I was testing this, just be carefull since your email and password could be seen by anyone who had the link to that Paste.
+I used Pastebin.com when I was testing this, just be carefull since your email and password could be seen by anyone who had the link to that Paste. Play with the delay option to make the payload efficient

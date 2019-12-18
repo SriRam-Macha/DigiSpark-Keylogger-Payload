@@ -1,8 +1,10 @@
 # DigiSpark-Keylogger-Payload
 
+All the Information given below is only for educational pourposes. Do not use it on others without proper concent.
+
 This Payload works in two steps which are as followes
-1 - It disables the Real Time Protection of Windows Defender.
-2 - It executes the keylogger Script. 
+* It disables the Real Time Protection of Windows Defender.
+* It executes the keylogger Script. 
 
 First step disableing the Real Time Protection of Windows Defender 
  The Powershel command line to disable Real Time Protection of Windows Defender is 
